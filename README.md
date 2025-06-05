@@ -1,3 +1,3 @@
 # GitLab2
-hello! \\n
+hello!
 Hello x 2
